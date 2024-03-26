@@ -1,0 +1,7 @@
+from jump_cloud_python_sdk.paths.identity_provider_policies_idp_routing_policy_id_associations_usergroups.get import ApiForget
+
+
+class IdentityProviderPoliciesIdpRoutingPolicyIdAssociationsUsergroups(
+    ApiForget,
+):
+    pass
